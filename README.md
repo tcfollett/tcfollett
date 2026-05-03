@@ -1,16 +1,23 @@
-## Hi there 👋
+# Tobias Follett
 
-<!--
-**tcfollett/tcfollett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year university student based in California  
+Physics and Data Science undergraduate  
+Currently working on an AI advisor app for MyPacific and research on elastic constants of FeC systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Computational Materials Science (MLIPs, DFT, MD)
+- High-Performance Computing (HPC) and Simulation
+- Python and MATLAB
+- Reading and Basketball
+
+---
+
+## Currently Learning / Reading
+- Rust
+- Mathematical Modeling and Computer Simulations
+- Mathematical Proof Writing
+
+Based in Lodi, California <br>
+*Contact*: tobiascfollett@gmail.com
