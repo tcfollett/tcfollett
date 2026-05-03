@@ -9,7 +9,6 @@ Currently working on an AI advisor app for my university and research on MLIPs f
 ## Interests
 - Computational Materials Science (MLIPs, DFT, MD)
 - High-Performance Computing (HPC) and Simulation
-- Python and MATLAB
 - Reading and Basketball
 
 ---
