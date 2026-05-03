@@ -2,7 +2,7 @@
 
 Second-year university student based in California  
 Physics and Data Science undergraduate  
-Currently working on an AI advisor app for MyPacific and research on elastic constants of FeC systems.
+Currently working on an AI advisor app for my university and research on MLIPs for FeC systems.
 
 ---
 
