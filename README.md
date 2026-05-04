@@ -16,7 +16,6 @@ Currently working on an AI advisor app for my university and research on MLIPs f
 ## Currently Learning / Reading
 - Rust
 - Mathematical Modeling and Computer Simulations
-- Mathematical Proof Writing
 
 Based in Lodi, California <br>
 *Contact*: tobiascfollett@gmail.com
