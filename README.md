@@ -2,7 +2,7 @@
 
 Second-year university student based in California  
 Physics and Data Science undergraduate  
-Currently working on an AI advisor startup for my university and research on MLIPs for FeC systems.
+Currently building AI advisor/course scheduler for my university and I research MLIPs for FeC systems.
 
 ---
 
