@@ -9,7 +9,6 @@ Currently building AI advisor/course scheduler for my university and I research 
 ## Interests
 - Computational Materials Science (MLIPs, DFT, MD)
 - High-Performance Computing
-- Reading and Basketball
 
 ---
 
@@ -18,4 +17,4 @@ Currently building AI advisor/course scheduler for my university and I research 
 - Mathematical Modeling and Computer Simulations
 
 Based in Lodi, California <br>
-*Contact*: tobiascfollett@gmail.com
+*Contact*: t_follett@pacific.edu
