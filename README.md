@@ -1,6 +1,6 @@
 # Tobias Follett
 
-Second-year university student based in California  
+Second-year university student at University of the Pacific  
 Physics and Data Science undergraduate  
 Currently building AI advisor/course scheduler for my university and I research MLIPs for FeC systems.
 
@@ -16,5 +16,5 @@ Currently building AI advisor/course scheduler for my university and I research 
 - Rust
 - Mathematical Modeling and Computer Simulations
 
-Based in Lodi, California <br>
+Based in California <br>
 *Contact*: t_follett@pacific.edu
