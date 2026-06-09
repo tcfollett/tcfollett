@@ -16,4 +16,4 @@ Currently building AI advisor/course scheduler for my university and I research 
 - Mathematical Modeling and Computer Simulations
 
 Based in California <br>
-*Contact*: t_follett@pacific.edu
+*Contact*: t_follett@u.pacific.edu
