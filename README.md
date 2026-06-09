@@ -1,7 +1,6 @@
 # Tobias Follett
 
-Second-year university student at University of the Pacific  
-Physics and Data Science undergraduate  
+Physics student at University of the Pacific  
 Currently building AI advisor/course scheduler for my university and I research MLIPs for FeC systems.
 
 ---
